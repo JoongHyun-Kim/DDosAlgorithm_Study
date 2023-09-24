@@ -31,3 +31,5 @@ int main() {
     cout << modifyAToB(B);
 
 }
+
+// https://velog.io/@kados22/C-BOJ-16953-A-B
